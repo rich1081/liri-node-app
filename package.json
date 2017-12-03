@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "### Overview",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rich1081/liri-node-ap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rich1081/liri-node-ap/issues"
+  },
+  "homepage": "https://github.com/rich1081/liri-node-ap#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "require": "^2.4.20"
+  }
+}
